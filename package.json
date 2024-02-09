@@ -2,6 +2,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "Ephra",
 	"description": "Nodejs refresher",
+	"keywords": [ "freecodecamp", "node", "npm" ],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
